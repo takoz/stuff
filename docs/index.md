@@ -1,6 +1,6 @@
 # Changelog page sample
 
-## Some device :/play cottoneyejoe:
+## Some device
 ### Features
 * Feature 1 [desc](http://http://nowhere.com/)
 * Feature 2 [desc](http://http://nowhere.com/)
@@ -9,3 +9,4 @@
 * Fix 1 [desc](http://http://nowhere.com/)
 * Improvement 1 [desc](http://http://nowhere.com/)
 
+/play cottoneyejoe
