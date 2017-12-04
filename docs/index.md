@@ -8,5 +8,3 @@
 ### Fixes & improvements
 * Fix 1 [desc](http://http://nowhere.com/)
 * Improvement 1 [desc](http://http://nowhere.com/)
-
-/play cottoneyejoe
